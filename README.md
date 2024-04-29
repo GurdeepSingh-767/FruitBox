@@ -15,11 +15,31 @@ To download the FruitBox project, visit our website [FruitBox](https://fruitbox-
 ![FruitBox  Website](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img4.png)
 
 
-## Images
+## Fruitbox Customer App
 
-![Customer App](customer_app.png)
-![FruitBox Delivery](fruitbox_delivery.png)
-![FruitBox Vendor](fruitbox_vendor.png)
+![Customer App](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img6.png)
+![Customer App](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img7.png)
+![Customer App](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img8.png)
+![Customer App](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img9.png)
+![Customer App](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img10.png)
+![Customer App](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img11.png)
+
+
+## Fruitbox Vendor App
+
+![FruitBox Vendor](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img15.png)
+![FruitBox Vendor](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img16.png)
+![FruitBox Vendor](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img17.png)
+![FruitBox Vendor](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img18.png)
+![FruitBox Vendor](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img20.png)
+
+## Fruitbox Delivery App
+
+![FruitBox Delivery](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img22.png)
+![FruitBox Delivery](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img23.png)
+![FruitBox Delivery](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img24.png)
+![FruitBox Delivery](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img25.png)
+![FruitBox Delivery](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img26.png)
 
 ## Result
 
