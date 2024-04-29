@@ -9,6 +9,11 @@ It has been observed that customers who are unable to purchase fresh fruits from
 ## Implementation
 
 To download the FruitBox project, visit our website [FruitBox](https://fruitbox-webs.netlify.app/). You can download the customer app, FruitBox Delivery, and FruitBox Vendor from there.
+![FruitBox  Website](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img1.png)
+![FruitBox  Website](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img2.png)
+![FruitBox  Website](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img3.png)
+![FruitBox  Website](https://github.com/GurdeepSingh-767/FruitBox/blob/main/images/img4.png)
+
 
 ## Images
 
